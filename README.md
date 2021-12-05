@@ -11,3 +11,6 @@ To run it locally, first scrape the TV shows data form internet using the data c
 Tech stach Used : Jina, Tensors, Gradio
 
 Contributions : Gopinath K S
+
+Sample Demo :
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
