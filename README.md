@@ -6,16 +6,13 @@ This model was build as a part of Featurethon - 14 day Jina AI challenge.
 
 This was built on Jina AI for applying Neural search.
 
-To run it locally, first scrape the TV shows data form internet using the data collection code. Then build the jina AI and index the model  using the scrapped data with the Jina-colab code. Then use the search code to do a quick neural search on the dataset.
+To run it locally, first scrape the TV shows data form internet using the data collection code. Then you will get the subtitles file similar to the one TVshows-script. Then if you use colab (It is advised to use colab) implement the training and searching seperately in colab.The process of training will create a folder called "workspace" which will store the indexed data of the training set in binary files. In the search notebook, the workspace folder is used for searching the indexed data. If you run on local system, "Jina.ipynb" file will contain both the training and searching codes along with the gui design. Then build the jina AI and index the model  using the scrapped data with the Jina-colab code. Then use the search code to do a quick neural search on the dataset.
 
-Tech stach Used : Jina, Tensors, Gradio
+Tech stach Used : Jina, Tensors, python, Gradio
 
 Contributions : Gopinath K S
 
-Sample Demo : \n
-
-
-
+Sample Demo :
 
 
 
