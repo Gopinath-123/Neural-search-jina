@@ -12,5 +12,12 @@ Tech stach Used : Jina, Tensors, Gradio
 
 Contributions : Gopinath K S
 
-Sample Demo :
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+Sample Demo : \n
+
+
+
+
+
+
+https://user-images.githubusercontent.com/67322614/144734217-a39a0bcc-6d7a-43ef-ab81-732afec74de8.mp4
+
